@@ -3,7 +3,7 @@ import './Home.css'
 
 function Home() {
 
-  const listMenu: string[] = [ 'MenuFrontal1.png', 'MenuTrasero1.png']
+  const listMenu: string[] = [ 'MenuFrontal.png', 'MenuTrasero.png']
 
   return (
     <>
